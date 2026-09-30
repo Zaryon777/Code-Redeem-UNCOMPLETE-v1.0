@@ -10,7 +10,7 @@ local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
 --------------------------------------------------------------------------------
--- CONFIGURACIÓN Y ESTADOS
+-- CONFIGURACIÓN Y ESTADOS.
 --------------------------------------------------------------------------------
 
 local config = {
